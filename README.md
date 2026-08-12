@@ -13,6 +13,8 @@
 
 ## About me
 
+<div align="center">
+
 ```java
 public class Nurmuhammed {
     String role = "Java Developer";
@@ -23,10 +25,10 @@ public class Nurmuhammed {
 }
 ```
 
-- Currently working as a **Java developer**
-- Learning **Docker** and improving backend craft
-- Open to collaborate on interesting projects and startups
-- Fun fact: I am too handsome
+Java developer from Bishkek · currently diving into Docker · open to cool projects  
+Fun fact: I am too handsome
+
+</div>
 
 ---
 
@@ -51,12 +53,18 @@ public class Nurmuhammed {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nurmuhammadbabaev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&icon_color=e8a838&text_color=c9d1d9" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammadbabaev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&text_color=c9d1d9" alt="Top languages" />
+<a href="https://github.com/nurmuhammadbabaev">
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=nurmuhammadbabaev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&icon_color=e8a838&text_color=c9d1d9" alt="GitHub stats" />
+</a>
+<a href="https://github.com/nurmuhammadbabaev">
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=nurmuhammadbabaev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&text_color=c9d1d9" alt="Top languages" />
+</a>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammadbabaev&theme=radical&hide_border=true&background=0d1117&ring=e8a838&fire=e8a838&currStreakLabel=e8a838" alt="GitHub streak" />
+<a href="https://github.com/nurmuhammadbabaev">
+  <img src="https://streak-stats.demolab.com/?user=nurmuhammadbabaev&theme=radical&hide_border=true&background=0D1117&ring=E8A838&fire=E8A838&currStreakLabel=E8A838" alt="GitHub streak" />
+</a>
 
 </div>
 
