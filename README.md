@@ -13,22 +13,12 @@
 
 ## About me
 
-<div align="center">
+Привет! Я **Нурмухаммед** — Java-разработчик из Бишкека.
 
-```java
-public class Nurmuhammed {
-    String role = "Java Developer";
-    String location = "Bishkek";
-    String learning = "Docker";
-    String[] focus = {"Spring", "APIs", "Clean Architecture"};
-    boolean openToCollaborate = true;
-}
-```
+Сейчас углубляюсь в **Docker**, работаю со **Spring** и API, люблю чистую архитектуру.  
+Открыт к интересным проектам и коллаборациям.
 
-Java developer from Bishkek · currently diving into Docker · open to cool projects  
-Fun fact: I am too handsome
-
-</div>
+Fun fact: I am too handsome ☺️
 
 ---
 
