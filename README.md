@@ -64,13 +64,15 @@ public class Nurmuhammed {
 
 ## Featured projects
 
-| Project | Stack | About |
-| --- | --- | --- |
-| [Fortylines_HR](https://github.com/nurmuhammadbabaev/Fortylines_HR) | Java | HR-related backend |
-| [grocery-store](https://github.com/nurmuhammadbabaev/grocery-store) | Java | Grocery store app |
-| [kyrgyzPochtasy](https://github.com/nurmuhammadbabaev/kyrgyzPochtasy) | Java | Kyrgyz Post related project |
-| [AVTO](https://github.com/nurmuhammadbabaev/AVTO) | Java | Auto / vehicle project |
-| [ab-test](https://github.com/nurmuhammadbabaev/ab-test) | Java | A/B testing experiments |
+| Project | About |
+| --- | --- |
+| [AUN Cargo](https://auncargo.com/) | Карго и доставка из Китая в Кыргызстан |
+| [Оймо Швеймаг](https://oimo.store/) | Интернет-магазин швейных машин в Бишкеке |
+| [BazarKassa](https://www.bazarkassa.kg/) | Онлайн-касса POS и склад для магазинов |
+| [NUR Academy](https://nuracademy.online/) | Онлайн-платформа курсов от экспертов |
+| [Ethar](https://ethar-frontend-production.up.railway.app/) | Фонд помощи сиротам и нуждающимся семьям |
+| [Tax Germany](https://taxgermany.de/) | Налоговые сервисы для фрилансеров и компаний в Германии |
+| [Download All Contents Bot](https://t.me/download_all_contents_bot) | Telegram-бот для скачивания контента |
 
 ---
 
