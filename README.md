@@ -1,29 +1,87 @@
-### Hi 👋, I'm Нурмухаммед 
+<div align="center">
 
-- 🔭 I’m currently working on Java developer
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on exciting projects and startups
-- 🤔 I’m looking for help with ambitious people
-- 💬 Ask me about anything you want to know
-- 📫 How to reach me: 
-- ⚡ Fun fact: I am too handsome ☺️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=E8A838&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nurmuhammed+%F0%9F%91%8B;Java+Developer+from+Bishkek;Building+backends+that+scale" alt="Typing SVG" />
 
-### :toolbox: Languages and Tools:
-<img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://javabeat.net/wp-content/uploads/2015/06/spring-logo.png" />
-<img align="left" alt="FireBase" width="40px" style="padding-right:10px;" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1678214001507x239515035225292830%2F1_ti5CnGh_T4Kqy5aCTLJRcg.png?w=&h=&auto=compress&dpr=1&fit=max" />
-<img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="PostgreSQL" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
-<img align="left" alt="Postman" width="40px"  style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/postman.svg" />
-<img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://logospng.org/download/figma/figma-2048.png" />
-<img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://stickersllamita.com/wp-content/uploads/2022/02/Docker-logo-3.png" />
-<img align="left" alt="Amazon" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
-<img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt=" | GitLab" width="40px" style="padding-right:10px;" src="https://gitlab.com/-/pwa-icons/logo-192.png" />
+### Java Backend Developer · Bishkek, Kyrgyzstan
+
+[![GitHub followers](https://img.shields.io/github/followers/nurmuhammadbabaev?style=for-the-badge&logo=github&color=24292f)](https://github.com/nurmuhammadbabaev)
+[![Profile views](https://komarev.com/ghpvc/?username=nurmuhammadbabaev&style=for-the-badge&color=e8a838)](https://github.com/nurmuhammadbabaev)
+
+</div>
+
+---
+
+## About me
+
+```java
+public class Nurmuhammed {
+    String role = "Java Developer";
+    String location = "Bishkek";
+    String learning = "Docker";
+    String[] focus = {"Spring", "APIs", "Clean Architecture"};
+    boolean openToCollaborate = true;
+}
+```
+
+- Currently working as a **Java developer**
+- Learning **Docker** and improving backend craft
+- Open to collaborate on interesting projects and startups
+- Fun fact: I am too handsome
+
+---
+
+## Tech stack
+
+<div align="center">
+
+### Languages & Backend
+![Java](https://skillicons.dev/icons?i=java,spring)
+
+### Data & Infra
+![Infra](https://skillicons.dev/icons?i=postgres,firebase,docker,aws)
+
+### Tools
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,postman,idea,figma,html)
+
+</div>
+
+---
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nurmuhammadbabaev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&icon_color=e8a838&text_color=c9d1d9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurmuhammadbabaev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e8a838&text_color=c9d1d9" alt="Top languages" />
+
 <br/>
-<br>
-<br>
-Connect with me:<br>
-<img align="left" alt=" | LinkedIn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />  
-<img align="left" alt=" | Instagram" width="40px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nurmuhammadbabaev&theme=radical&hide_border=true&background=0d1117&ring=e8a838&fire=e8a838&currStreakLabel=e8a838" alt="GitHub streak" />
+
+</div>
+
+---
+
+## Featured projects
+
+| Project | Stack | About |
+| --- | --- | --- |
+| [Fortylines_HR](https://github.com/nurmuhammadbabaev/Fortylines_HR) | Java | HR-related backend |
+| [grocery-store](https://github.com/nurmuhammadbabaev/grocery-store) | Java | Grocery store app |
+| [kyrgyzPochtasy](https://github.com/nurmuhammadbabaev/kyrgyzPochtasy) | Java | Kyrgyz Post related project |
+| [AVTO](https://github.com/nurmuhammadbabaev/AVTO) | Java | Auto / vehicle project |
+| [ab-test](https://github.com/nurmuhammadbabaev/ab-test) | Java | A/B testing experiments |
+
+---
+
+## Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurmuhammed-babaev-6b35b4217/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Nurchik1805)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/996502133442)
+
+Want to collaborate? Ping me anytime
+
+</div>
