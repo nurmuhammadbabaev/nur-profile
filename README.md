@@ -68,7 +68,7 @@ Fun fact: I am too handsome ☺️
 | [Оймо Швеймаг](https://oimo.store/) | Интернет-магазин швейных машин в Бишкеке |
 | [BazarKassa](https://www.bazarkassa.kg/) | Онлайн-касса POS и склад для магазинов |
 | [NUR Academy](https://nuracademy.online/) | Онлайн-платформа курсов от экспертов |
-| [Ethar](https://ethar-frontend-production.up.railway.app/) | Фонд помощи сиротам и нуждающимся семьям |
+| [Ethar](https://ethar.com.kg/) | Фонд помощи сиротам и нуждающимся семьям |
 | [Tax Germany](https://taxgermany.de/) | Налоговые сервисы для фрилансеров и компаний в Германии |
 | [Download All Contents Bot](https://t.me/download_all_contents_bot) | Telegram-бот для скачивания контента |
 
